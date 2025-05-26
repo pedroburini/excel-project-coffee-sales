@@ -12,7 +12,7 @@ The dashboard provides insights into:
 - **Product Performance**: Analysis of sales by coffee type and size.
 - **Interactive Filters**: Slicers for coffee type, size, and loyalty card status, along with a timeline filter for date ranges.
 
-![Dashboard Screenshot](img/dashboard_screenshot.png)
+![Dashboard Screenshot](img/coffee-dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
